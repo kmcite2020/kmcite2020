@@ -4,6 +4,7 @@ Phone : +923479416015
 Email : lumia.college.learning.458@gmail.com
 DOB : 04-04-1995
 # PERSONAL INFORMATIONS
+```
 F/NAME: MUHAMMAD TAHIR
 PMC LICENSE TYPE: PERMANENT
 PMC LICENSE: 34092-N
@@ -12,6 +13,7 @@ RELIGION: ISLAM
 DOMICILE: SWABI
 PROVINCE: KPK
 NATIONALITY: PAKISTANI
+```
 # PERSONAL STATEMENT
 A trusted, patient focused and experienced locum doctor with a history of serving patients by successfully diagnosing treating and managing their illnesses and diseases. Easy going by nature and able to get along with other healthcare professionals and senior managers. Experience of working normal hours and providing out of hours and weekend cover. Looking for and willing to consider suitable positions in either Government or Private sector.
 # CAREER OBJECTIVE
