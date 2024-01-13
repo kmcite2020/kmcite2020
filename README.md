@@ -1,4 +1,4 @@
-![Screenshot](screenshot.png)
+![DOCTOR](patient.png)
 Moh: Maroof Abad, Vill: Urmal Dheri, P/O: Yar Hussain, Teh: Razar, Distt: Swabi, KPK, Pakistan.
 Phone : +923479416015
 Email : lumia.college.learning.458@gmail.com
@@ -20,6 +20,7 @@ Attain self-satisfaction by working in a challenging environment where I can opt
 ## KHYBER MEDICAL COLLEGE PESHAWAR / KHYBER MEDICAL UNIVERSITY PESHAWAR
 `13-10-2014 - 25-2-2020`
 ### MBBS
+```
 2015 - 1st Professional Year 385/600
 2016 - 2nd Professional Year 418/700
 2017 - 3rd Professional Year 525/800
@@ -27,25 +28,30 @@ Attain self-satisfaction by working in a challenging environment where I can opt
 2019 - 5th Professional Year 1048/1600
 Note: All exams passed with first attempts.
 Grades - 64.47% (3030/4700)
+```
 
 ## THE QUAID-E-AZAM COLLEGE SWABI / BISE MARDAN
 ### F.SC (PRE-MEDICAL)
 `01-09-2011 - 30-06-2013`
+```
 1st Year 458/550
 2nd Year 445/550
 Grades - 82.1% (903/1100)
-
+```
 ## GOVT HIGH SCHOOL DAGAI SWABI / BISE MARDAN
 ### MATRIC (SCIENCE)
 `01-04-2009 - 31-05-2011`
+```
 9th Class 425/525
 10th Class 400/525
 Grades - 78.57% (825/1050)
+```
 # EXPERIENCE
 ## BACHA KHAN MEDICAL COMPLEX SHAH MANSOOR SWABI (MTI)
 ### MEDICAL OFFICER (BPS-17)
 Started job here on `19-01-2022`.
 Currently working here.
+```
 My experience here concludes the following.
 Surgical ER,
 Medical ER,
@@ -53,17 +59,21 @@ Pediatrics ER,
 Medical Wards,
 Medicolegal Cases, 
 Autopsies and Postmortems. 
+```
 ## LADY READING HOSPITAL PESHAWAR (MTI - MEDICAL TEACHING INSTITUTE)
 ### HOUSE OFFICER (BPS-16)
 
 `20-3-2020 - 19-3-2021`
 
+```
 20-03-2020 to 19-06-2020 STROKE AND REHABILITATION MEDICINE
 20-06-2020 to 04-08-2020 GENERAL INTERNAL MEDICINE
 05-08-2020 to 19-09-2020 ACUTE MEDICAL UNIT
 20-09-2020 to 04-11-2020 GENERAL SURGERY
 05-11-2020 to 19-12-2020 SURGICAL EMERGENCY
 20-12-2020 to 19-03-2021 OPTHALMOLOGY
+```
+
 These are departments within LRH.
 # PROFESSIONAL SKILLS
 ## MEDICAL SKILLS
@@ -81,7 +91,9 @@ Active participation in demonstrations, lectures, seminars & presentations durin
 
 # LANGUAGES
 
-English (Intermediate), Urdu (Excellent), Pashto (Excellent)
+1. English (Intermediate)
+2. Urdu (Excellent)
+3. Pashto (Excellent)
 
 # INTERESTS
 
