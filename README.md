@@ -1,8 +1,16 @@
-![DOCTOR](patient.png)
-Moh: Maroof Abad, Vill: Urmal Dheri, P/O: Yar Hussain, Teh: Razar, Distt: Swabi, KPK, Pakistan.
-Phone : +923479416015
-Email : lumia.college.learning.458@gmail.com
-DOB : 04-04-1995
+![DOCTOR](patient .png)
+
+# DR. ADNAN FAROOQ
+
+```dart
+Moh: Maroof Abad, Vill: Urmal Dheri, P/O: Yar Hussain,
+Teh: Razar, 
+Distt: Swabi, 
+KPK, Pakistan.
+Phone : +923479416015,
+Email : lumia.college.learning.458@gmail.com,
+DOB : 04-04-1995.
+```
 # PERSONAL INFORMATIONS
 ```
 F/NAME: MUHAMMAD TAHIR
@@ -40,7 +48,7 @@ Grades - 64.47% (3030/4700)
 2nd Year 445/550
 Grades - 82.1% (903/1100)
 ```
-## GOVT HIGH SCHOOL DAGAI SWABI / BISE MARDAN
+## GOVT HIGH SCHOOL DAGI SWABI / BISE MARDAN
 ### MATRIC (SCIENCE)
 `01-04-2009 - 31-05-2011`
 ```
@@ -60,7 +68,7 @@ Medical ER,
 Pediatrics ER,
 Medical Wards,
 Medicolegal Cases, 
-Autopsies and Postmortems. 
+Autopsies (Postmortems). 
 ```
 ## LADY READING HOSPITAL PESHAWAR (MTI - MEDICAL TEACHING INSTITUTE)
 ### HOUSE OFFICER (BPS-16)
@@ -79,7 +87,7 @@ Autopsies and Postmortems.
 These are departments within LRH.
 # PROFESSIONAL SKILLS
 ## MEDICAL SKILLS
-Diagnosis, treatment & management of diseases. Keeping upto date with the latest treatments, medicines and medical developments. Experience of providing care to patients on hospital wards, outpatient clinics. A willingness to accept responsibility. Experience of working in a pressurized environment. Ability to work long and unsociable hours. Medical procedures like Ascitic tap, Pleural tap, NG tube insertion, Urinary catheterization, LP.
+Diagnosis, treatment & management of diseases. Keeping up to date with the latest treatments, medicines and medical developments. Experience of providing care to patients on hospital wards, outpatient clinics. A willingness to accept responsibility. Experience of working in a pressurized environment. Ability to work long and unsociable hours. Medical procedures like Ascitic tap, Pleural tap, NG tube insertion, Urinary catheterization, LP.
 
 ## SURGICAL SKILLS
 Pre-op & Post-op Management, Incision & Drainage, Wound Debridement, Bandage & Dressings, Skin Closures, Phlebotomy, Passing IV lines (IV Cannulas), Injections, Surgical OT assistance, ER Experience, Clerkship.
