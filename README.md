@@ -2,12 +2,14 @@
 
 # Dr. Adnan Farooq
 
+---
+
 ## Personal Information
 - **Address**: Moh: Maroof Abad, Vill: Urmal Dheri, P/O: Yar Hussain, Teh: Razar, Distt: Swabi, KPK, Pakistan
 - **Phone**: +923479416015
 - **Email**: lumia.college.learning.458@gmail.com
 - **Date Of Birth**: 04-04-1995
-- **Father Name**: Muhammad Tahie
+- **Father Name**: Muhammad Tahir
 - **PMDC License Type**: Permanent
 - **PMDC License**: 34092-N
 - **CNIC**: 16201-3189992-1
