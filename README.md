@@ -1,111 +1,119 @@
-![DOCTOR](patient .png)
+<!-- ![Doctor](doctor.png) -->
 
-# DR. ADNAN FAROOQ
+# Dr. Adnan Farooq
 
-```dart
-Moh: Maroof Abad, Vill: Urmal Dheri, P/O: Yar Hussain,
-Teh: Razar, 
-Distt: Swabi, 
-KPK, Pakistan.
-Phone : +923479416015,
-Email : lumia.college.learning.458@gmail.com,
-DOB : 04-04-1995.
-```
-# PERSONAL INFORMATIONS
-```
-F/NAME: MUHAMMAD TAHIR
-PMC LICENSE TYPE: PERMANENT
-PMC LICENSE: 34092-N
-CNIC: 16201-3189992-1
-RELIGION: ISLAM
-DOMICILE: SWABI
-PROVINCE: KPK
-NATIONALITY: PAKISTANI
-```
-# PERSONAL STATEMENT
-A trusted, patient focused and experienced locum doctor with a history of serving patients by successfully diagnosing treating and managing their illnesses and diseases. Easy going by nature and able to get along with other healthcare professionals and senior managers. Experience of working normal hours and providing out of hours and weekend cover. Looking for and willing to consider suitable positions in either Government or Private sector.
-# CAREER OBJECTIVE
+## Personal Information
+- **Address**: Moh: Maroof Abad, Vill: Urmal Dheri, P/O: Yar Hussain, Teh: Razar, Distt: Swabi, KPK, Pakistan
+- **Phone**: +923479416015
+- **Email**: lumia.college.learning.458@gmail.com
+- **Date Of Birth**: 04-04-1995
+- **Father Name**: Muhammad Tahir
+- **PMDC License Type**: Permanent
+- **PMDC License**: 34092-N
+- **CNIC**: 16201-3189992-1
+- **Religion**: Islam
+- **Domicile**: Swabi, KPK
+- **Nationality**: Pakistani
+
+# Personal Statement
+A trusted, patient-focused, and experienced locum doctor with a history of successfully diagnosing, treating, and managing illnesses and diseases. Easy-going by nature and able to collaborate effectively with other healthcare professionals and senior managers. Experienced in providing both regular and out-of-hours medical care. Actively seeking suitable positions in both Government and Private sectors.
+
+# Career Objective
 Attain self-satisfaction by working in a challenging environment where I can optimally utilize my skills and abilities.
-# EDUCATIONAL INFORMATIONS
-## KHYBER MEDICAL COLLEGE PESHAWAR / KHYBER MEDICAL UNIVERSITY PESHAWAR
-`13-10-2014 - 25-2-2020`
+
+# Educational Information
+
+## Khyber Medical College Peshawar / Khyber Medical University Peshawar
 ### MBBS
-```
-2015 - 1st Professional Year 385/600
-2016 - 2nd Professional Year 418/700
-2017 - 3rd Professional Year 525/800
-2018 - 4th Professional Year 654/1000
-2019 - 5th Professional Year 1048/1600
-Note: All exams passed with first attempts.
-Grades - 64.47% (3030/4700)
-```
+- **Duration**: 13-10-2014 - 25-2-2020
+- **Grades**:
+  - 2015 - 1st Year: 385/600
+  - 2016 - 2nd Year: 418/700
+  - 2017 - 3rd Year: 525/800
+  - 2018 - 4th Year: 654/1000
+  - 2019 - 5th Year: 1048/1600
+- **Overall Grade**: 64.47% (3030/4700)
 
-## THE QUAID-E-AZAM COLLEGE SWABI / BISE MARDAN
-### F.SC (PRE-MEDICAL)
-`01-09-2011 - 30-06-2013`
-```
-1st Year 458/550
-2nd Year 445/550
-Grades - 82.1% (903/1100)
-```
-## GOVT HIGH SCHOOL DAGI SWABI / BISE MARDAN
-### MATRIC (SCIENCE)
-`01-04-2009 - 31-05-2011`
-```
-9th Class 425/525
-10th Class 400/525
-Grades - 78.57% (825/1050)
-```
-# EXPERIENCE
-## BACHA KHAN MEDICAL COMPLEX SHAH MANSOOR SWABI (MTI)
-### MEDICAL OFFICER (BPS-17)
-Started job here on `19-01-2022`.
-Currently working here.
-```
-My experience here concludes the following.
-Surgical ER,
-Medical ER,
-Pediatrics ER,
-Medical Wards,
-Medicolegal Cases, 
-Autopsies (Postmortems). 
-```
-## LADY READING HOSPITAL PESHAWAR (MTI - MEDICAL TEACHING INSTITUTE)
-### HOUSE OFFICER (BPS-16)
+## The Quaid-e-Azam College Swabi / BISE Mardan
+### FSC (Pre-Medical)
+- **Duration**: 01-09-2011 - 30-06-2013
+- **Grades**:
+  - 1st Year: 458/550
+  - 2nd Year: 445/550
+- **Overall Grade**: 82.1% (903/1100)
 
-`20-3-2020 - 19-3-2021`
+## Govt High School Dagi Swabi / BISE Mardan
+### Matric (Science)
+- **Duration**: 01-04-2009 - 31-05-2011
+- **Grades**:
+  - 9th Class: 425/525
+  - 10th Class: 400/525
+- **Overall Grade**: 78.57% (825/1050)
 
-```
-20-03-2020 to 19-06-2020 STROKE AND REHABILITATION MEDICINE
-20-06-2020 to 04-08-2020 GENERAL INTERNAL MEDICINE
-05-08-2020 to 19-09-2020 ACUTE MEDICAL UNIT
-20-09-2020 to 04-11-2020 GENERAL SURGERY
-05-11-2020 to 19-12-2020 SURGICAL EMERGENCY
-20-12-2020 to 19-03-2021 OPTHALMOLOGY
-```
+# Experience
 
-These are departments within LRH.
-# PROFESSIONAL SKILLS
-## MEDICAL SKILLS
-Diagnosis, treatment & management of diseases. Keeping up to date with the latest treatments, medicines and medical developments. Experience of providing care to patients on hospital wards, outpatient clinics. A willingness to accept responsibility. Experience of working in a pressurized environment. Ability to work long and unsociable hours. Medical procedures like Ascitic tap, Pleural tap, NG tube insertion, Urinary catheterization, LP.
+## Bacha Khan Medical Complex Shah Mansoor Swabi (MTI)
+### Medical Officer (BPS-17)
+- **Start Date**: 19-01-2022
+- **Current Position**
+- **Experience**:
+  - Surgical ER
+  - Medical ER
+  - Pediatrics ER
+  - Medical Wards
+  - Medicolegal Cases
+  - Autopsies (Postmortems)
 
-## SURGICAL SKILLS
-Pre-op & Post-op Management, Incision & Drainage, Wound Debridement, Bandage & Dressings, Skin Closures, Phlebotomy, Passing IV lines (IV Cannulas), Injections, Surgical OT assistance, ER Experience, Clerkship.
-## COMPUTER SKILLS
-Working with HIMS Software.
-Installing Office products & working with them
-Familiarity with computers & smartphones.
-# TEACHING
+## Lady Reading Hospital Peshawar (MTI - Medical Teaching Institute)
+### House Officer (BPS-16)
+- **Duration**: 20-3-2020 - 19-3-2021
+- **Departments**:
+  - Stroke and Rehabilitation Medicine
+  - General Internal Medicine
+  - Acute Medical Unit
+  - General Surgery
+  - Surgical Emergency
+  - Ophthalmology
 
-Active participation in demonstrations, lectures, seminars & presentations during study at Khyber Medical College Peshawar.
+# Professional Skills
 
-# LANGUAGES
+## Medical Skills
+- Diagnosis, treatment & management of diseases
+- Keeping up to date with the latest treatments, medicines, and medical developments
+- Experience in hospital wards and outpatient clinics
+- Ability to work in a pressurized environment
+- Medical procedures: Ascitic tap, Pleural tap, NG tube insertion, Urinary catheterization, LP.
 
-1. English (Intermediate)
-2. Urdu (Excellent)
-3. Pashto (Excellent)
+## Surgical Skills
+- Pre-op & Post-op Management
+- Incision & Drainage
+- Wound Debridement
+- Bandage & Dressings
+- Skin Closures
+- Phlebotomy
+- Passing IV lines (IV Cannulas)
+- Injections
+- Surgical OT assistance
+- ER Experience
+- Clerkship
 
-# INTERESTS
+## Computer Skills
+- Working with HIMS Software
+- Installing and using Office products
+- Familiarity with computers and smartphones
 
-Reading books, Working with computers & mobiles phones, Studying from Medscape, Pathology, Social
-worker, Gardening, Photography, Travelling & Hiking.
+# Teaching
+- Active participation in demonstrations, lectures, seminars, and presentations during study at Khyber Medical College Peshawar
+
+# Languages
+- English (Intermediate)
+- Urdu (Excellent)
+- Pashto (Excellent)
+
+# Interests
+- Studying online articles about medicine and coding and programming
+- Working with computers & mobile phones
+- Social work
+- Gardening
+- Photography
+- Traveling & Hiking
